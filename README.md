@@ -13,7 +13,7 @@ Desenvolvedor com IA. Passei 8 anos no Exército como sargento, empreendi e hoje
 | **MeuTEA** | App Android para famílias de crianças autistas: remédios com lembrete, consultas, exames e diário por voz. Em uso real pela minha família | Código privado |
 | **Zoniar** | CRM web para corretores de imóveis: funil, cadência de contato e tela "com quem falar hoje". No ar, com testes automatizados | [Site](https://zoniar.onrender.com) · código privado |
 | **Caixa do Motorista** | App web para motoristas controlarem ganhos, gastos e lucro, que funciona no celular | [Abrir](https://devjuniorferreira.github.io/caixa-do-motorista/) · [Código](https://github.com/devjuniorferreira/caixa-do-motorista) |
-| **Apocalipse** | Jogo em pixel art para navegador, com 10 fases e testes automatizados | [Jogar](https://devjuniorferreira.github.io/tsunami-na-crista-da-onda/) · [Código](https://github.com/devjuniorferreira/tsunami-na-crista-da-onda) |
+| **Apocalipse** | Jogo em pixel art para navegador, com 10 fases e testes automatizados | [Jogar](https://devjuniorferreira.github.io/tsunami-na-crista-da-onda/) · [Código] https://devjuniorferreira.github.io/apocalipse/ |
 | **Site NLC** | Landing page para uma assessoria de comunicação | [Site](https://nlc-comunicacao.dev-juniorferreira.workers.dev/) |
 
 Os códigos do MeuTEA e do Zoniar são privados porque são produtos. Apresento e explico em entrevista.
