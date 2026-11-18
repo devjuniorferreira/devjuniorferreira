@@ -1,26 +1,27 @@
-Oi, eu sou o Junior 👋
-Desenvolvedor com IA, em busca da minha primeira oportunidade em tecnologia. Fui sargento do Exército por 8 anos, empreendi e hoje também atuo como corretor de imóveis. Trago dessas experiências disciplina, responsabilidade e facilidade para trabalhar em equipe.
+# Oi, eu sou o Junior 👋
 
-Crio soluções para problemas que conheço de perto, da organização da rotina da minha família à gestão de contatos no mercado imobiliário. Uso IA no desenvolvimento e sigo aprofundando meus conhecimentos para entender, revisar e evoluir o que construo.
-- 🎯 Buscando minha primeira oportunidade como desenvolvedor
-- 📍 Rio de Janeiro, RJ
-- 💼 Vamos nos conectar no LinkedIn
-Projetos
-Projeto	O que é	Links
-MeuTEA	App Android para famílias de crianças autistas, com lembretes de medicamentos, organização de consultas e exames e diário por voz. Usado pela minha família.	Código privado
-Zoniar	CRM web para corretores de imóveis, com funil de vendas, cadência de contato e uma tela para identificar com quem falar no dia. Publicado e com testes automatizados.	Site · Código privado
-Caixa do Motorista	App web adaptado para celular que ajuda motoristas a acompanhar ganhos, gastos e lucro.	Abrir · Código
-Apocalipse	Jogo em pixel art para navegador, com 10 fases e testes automatizados.	Jogar
-Site NLC	Landing page para uma assessoria de comunicação.	Site
+Sou desenvolvedor front-end júnior em busca da minha primeira oportunidade em tecnologia. Fui sargento do Exército por oito anos, empreendi e trabalhei como corretor de imóveis. Hoje também trabalho como motorista de aplicativo.
 
+Crio aplicações para problemas que conheço de perto, como acompanhar o lucro das corridas e organizar o atendimento a clientes.
 
-Mantenho os repositórios do MeuTEA e do Zoniar privados por serem produtos próprios. Em entrevista, posso demonstrar as aplicações e explicar as decisões de desenvolvimento.
-Tecnologias
-- Uso no dia a dia: HTML · CSS · JavaScript · Git · GitHub
-- Utilizadas nos meus projetos com apoio de IA: TypeScript · React Native · Expo · Supabase · Python · Django · PostgreSQL · Docker · GitHub Actions
-- Estudando e aprofundando: React · Node.js · TypeScript · SQL
-Como eu trabalho
-- Uso Claude, Gemini e Codex com um fluxo organizado: planejamento, desenvolvimento em branches, pull requests, revisão e testes antes da publicação.
-- Valido as aplicações no celular para conferir a experiência de uso.
-- Cuido da segurança: mantenho senhas e chaves fora do código, configuro regras de acesso ao banco e uso dados fictícios nos testes.
-- Aplico no desenvolvimento a disciplina, a responsabilidade e o trabalho em equipe que fizeram parte da minha trajetória no Exército.
+📍 Rio de Janeiro, RJ · [LinkedIn](https://www.linkedin.com/in/devjuniorferreira)
+
+## Projetos
+
+| Projeto | O que faz | Links |
+| --- | --- | --- |
+| **Caixa do Motorista** | App web para registrar ganhos e gastos e calcular quanto sobra depois das despesas. Os dados ficam no navegador. | [Abrir](https://devjuniorferreira.github.io/caixa-do-motorista/) · [Código](https://github.com/devjuniorferreira/caixa-do-motorista) |
+| **Apocalipse** | Jogo de navegador em pixel art com dez fases e testes automatizados da lógica em JavaScript. | [Jogar](https://devjuniorferreira.github.io/apocalipse/) · [Código](https://github.com/devjuniorferreira/apocalipse) |
+| **Zoniar** | CRM web para corretores de imóveis, com funil de vendas e acompanhamento de contatos. | [Site](https://zoniar.onrender.com/) · Código privado |
+| **MeuTEA** | App Android para famílias de crianças autistas organizarem consultas, exames, medicamentos e a rotina. | Código privado |
+| **Site NLC** | Landing page para uma assessoria de comunicação. | [Site](https://nlc-comunicacao.dev-juniorferreira.workers.dev/) |
+
+## Tecnologias
+
+- **Uso no dia a dia:** HTML, CSS, JavaScript, Git e GitHub.
+- **Em estudo:** React, TypeScript, Node.js e SQL.
+- **Já usei em projetos com apoio de IA:** React Native, Expo, Supabase, Python, Django, PostgreSQL, Docker e GitHub Actions.
+
+## Como eu trabalho
+
+Planejo as funcionalidades antes de implementar e uso branches e pull requests para revisar as mudanças. Uso assistentes de IA no desenvolvimento e aprofundo meu conhecimento lendo o código e validando os fluxos. Testo as aplicações no celular e uso dados fictícios nas demonstrações públicas.
